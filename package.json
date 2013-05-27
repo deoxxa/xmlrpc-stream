@@ -1,0 +1,22 @@
+{
+  "name": "xmlrpc-stream",
+  "version": "0.0.0",
+  "description": "Perform XML-RPC using any kind of stream!",
+  "main": "xmlrpc.js",
+  "dependencies": {
+    "xml": "~0.0.7",
+    "xml2js": "~0.2.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deoxxa/xmlrpc-stream.git"
+  },
+  "keywords": [
+    "xmlrpc",
+    "xml",
+    "rpc",
+    "stream"
+  ],
+  "author": "Conrad Pankoff <deoxxa@fknsrs.biz> (http://www.fknsrs.biz/)",
+  "license": "BSD"
+}
